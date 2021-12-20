@@ -44,7 +44,7 @@ export default function SubscriptionForm() {
 
     return (
         <FormContainer>
-            <SubscribeHeader>Subscribe</SubscribeHeader>
+            <SubscribeHeader>Subscribe Please</SubscribeHeader>
             <Form onSubmit={handleSubmit} method='POST' action='http://localhost:5000'>
                 
                 <Form.Group className="mb-3" controlId="email">
