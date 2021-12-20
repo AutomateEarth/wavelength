@@ -1,0 +1,28 @@
+- Fix database connection, so email saves when
+    the app is live on heroku
+- Set the domain name to wavelength.community
+    through Godaddy
+- Add check to subscribe route so if the email
+    address entered already exists inside the
+    database, it can't be re-entered
+- Add a notification to the UI so when an email
+    entered is already in the database, it lets
+    the user know that email is already saved
+- Make navigation bar production ready
+    - Increase teh size of "Wavelength" 
+        brand name
+    - Place "Home" and "Skills" navigation
+        links inside a drop down menu
+    - Add an about page
+    - Add a contact page
+- Fix the cards in the Skills.js component
+    to fit the entire width of the screen
+    and not have so much margin on the sides
+- Add photos to to Skill.js component above
+    the description for added engaging content
+- Create a schedule component that allows  users
+    to choose a meetup and save it to their
+    personal calendars
+- Create a component that replaces the 
+    SubscribeForm component after a new users
+    enters their email

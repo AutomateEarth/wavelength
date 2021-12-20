@@ -1,0 +1,119 @@
+{
+    "skills": [
+        {
+            "name": "Public Speaking",
+            "id": 0,
+            "path": "public_speaking",
+            "brief_description": "Learn Public Speaking traditionally and for the digital age while developing critical thinking skills",
+            "description": "Have you ever wanted to communicate and present your ideas at a highly effective level? Learn to research, plan, organize, and present your speech while developing critical thinking and other important skills to business, relationships, and every day life.",
+            "price": 0,
+            "active_status": "Live",
+            "benefits": [
+                "Express your own ideas",
+                "Get real world practice and experience",
+                "Develop confidence",
+                "Develop critical thinking skills"
+            ]
+        },
+        {
+            "name": "Emotional Intelligence",
+            "id": 1,
+            "path": "emotional_intelligence",
+            "brief_description": "Learn to recognize, use, understand and manage your own others emotions in a positive way",
+            "description": "Are you interested in being more self-aware? Have you ever wondered about how self-regulation or how to be more stable in chaotic situations? Is being motivated, understanding others and their perspectives, and developing social skills important to you? Sign up for a meeting focuses around emotional intelligence today!",
+            "price": 5,
+            "active_status": "Coming Soon",
+            "benefits": [
+                "Better Stress Management",
+                "More Productivity",
+                "Better Performance",
+                "Self-management",
+                "Improved Relationships"
+            ]
+        },
+        {
+            "name": "Motivated Reasoning",
+            "id": 6,
+            "path": "motivated_reasoning",
+            "brief_description": "Learn to understand why we make the decisions we do",
+            "description": "We want so badly to be rational humans, but under further investigation, we learn that even the most rational and logical decisions stem from our emotions. Learn why this happens and how to be aware of it so you can better udnerstand yourself and others.",
+            "price": 6,
+            "active_status": "Coming Soon",
+            "benefits": [
+                "Understand what people are really saying",
+                "Get intimate with your own human nature",
+                "Increase your emotional intelligence"
+            ]
+        },
+        {
+            "name": "Critical Thinking",
+            "id": 7,
+            "path": "critical_thinking",
+            "brief_description": "Begin to think more critically about the important things",
+            "description": "This training will use a lot of the same methods used on the LSAT to help members develops skills to argue more effectively, ask better questions, and discover the truth.",
+            "price": 7,
+            "active_status": "Coming Soon",
+            "benefits": [
+                "Learn to ask great questions",
+                "Develop the skills of a lawyer",
+                "Develop debate skills"
+            ]
+        },
+        {
+            "name": "Effective Debate",
+            "id": 3,
+            "path": "effective_debate",
+            "brief_description": "Learn to strengthen your arguments with evidence",
+            "description": "Ever want to go head to head with somebody to argue your ideas? Maybe they'll prove you wrong, maybe you'll prove them wrong, but either way, you're both going to come out with your swords sharpened and have better arguments than you walked in with.",
+            "price": 5,
+            "active_status": "Coming Soon",
+            "benefits": [
+                "Learn to make strong arguments",
+                "Develop soft skills",
+                "Build your critical thinking skills"
+            ]
+        },
+        {
+            "name": "Overcoming Cognitive Biases",
+            "id": 5,
+            "path": "overcoming_cognitive_biases",
+            "brief_description": "Eliminate the biases that are hurting your relationships and stunting your growth",
+            "description": "There are hundreds of cognitive biases that stunt our growth and prevent us from living our best lives. Learn the cognitive biases that are most common in your life. Once you're aware of and acknowledge them, stomping them out is the easy part.",
+            "price": 5,
+            "active_status": "Coming Soon",
+            "benefits": [
+                "Learn common cognitive biases",
+                "Figure out which ones are hurting you",
+                "Eliminate them from your life once and for all"
+            ]
+        },
+        {
+            "name": "Data Structures and Algorithms",
+            "id": 2,
+            "path": "data_structures_and_algorithms",
+            "brief_description": "Learn data structures and algorithm to solve problems in new ways",
+            "description": "Creating high-performing algorithms using data structures will encourage you to thinkin ways you've never thought before. Learn to solve problems efficiently and learn how others would solve the same problem and why. There are 1,000 ways to solve one problem, but whose solution is the most elegant of all?",
+            "price": 5,
+            "active_status": "Coming Soon",
+            "benefits": [
+                "Develop Problem Solving Skills",
+                "Get that High Paying Job at Google or Amazon",
+                "Become Comfortable With Complexity"
+            ]
+        },
+        {
+            "name": "Situational Awareness",
+            "id": 4,
+            "path": "situational_awareness",
+            "brief_description": "Learn to stay aware of your surroundings",
+            "description": "Take your learning outside the meetup with situational awareness scavenger hunts and games for prizes. Learn a person or environment's baseline and what to pay attention to to figure out when that baseline has changed.",
+            "price": 5,
+            "active_status": "Coming Soon",
+            "benefits": [
+                "Learn to analyze your environment",
+                "Understand people and groups on a deeper level",
+                "Develop attention skills"
+            ]
+        }
+    ]
+}
